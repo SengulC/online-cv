@@ -134,15 +134,18 @@ projects:
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: Computer Generated Model of Bristol Cafe (CGI)
-        link: "#"
+        link: "#" 
+        # add link to photos/report
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Computer Graphics Rendering via C++
         link: "#"
+        # add link to video
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Platformer Stealth Game in Collaboration with IBM
         link: "#"
+        # add link to demo & installation?
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 skills:
