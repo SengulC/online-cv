@@ -5,6 +5,5 @@
 # About
 This repo is to host my online CV @ https://sengulc.github.io/online-cv
 
-# Credits
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
+> The Jekyll theme used is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
