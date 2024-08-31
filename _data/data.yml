@@ -130,7 +130,7 @@ projects:
       Below are the projects I've produced.
     assignments:
       - title: Stormboard (Bachelor Thesis)
-        link: "stormboard.vercel.app"
+        link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: Computer Generated Model of Bristol Cafe (CGI)
