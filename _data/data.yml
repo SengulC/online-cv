@@ -96,6 +96,7 @@ experiences:
           open-ended as the story wouldn't end until you wanted it to.
           Project presentation available here. Below is a slide from said presentation giving a condensed overview of the website's features.
           - OpenAI API chat completions
+          - Stable Diffusion API
           - Streamlit frontend design & deployment
           - Python backend 
           - Team synergy, collaborative coding
