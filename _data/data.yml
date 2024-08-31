@@ -63,8 +63,9 @@ career-profile:
       in Computer Science during my IB diploma and wrote a 30-page Extended Essay that marked my 
       introduction to web development and scientific evaluation.
       Most recently, I completed my Bachelor Thesis, achieving a 75% mark, where I honed these skills 
-      to a professional level. I'm, now, seeking remote or hybrid opportunities near Amsterdam or Groningen in the Netherlands, 
-      where I can dive into my passions: web development, game development, and the creative intersections within tech. 
+      to a professional level with the inclusion of AI. I'm, now, seeking remote or hybrid opportunities near 
+      Amsterdam or Groningen in the Netherlands, where I can dive into my passions: web development, 
+      game development, and all of the creative intersections within tech. 
 education:
     title: Education
     info:
@@ -78,43 +79,84 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Intern (Full Stack Development)
+        time: 2023
+        company: CYENS, Nicosia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Led frontend development on a 3-person programming team, later transitioning to full-stack management and deployment. 
+          Developed an AI-driven interactive storyteller for kids, enabling them to create fictional and historical stories 
+          through a dynamic website. Participated in weekly progress meetings and facilitated smooth transitions during team 
+          changes by onboarding new members. Project presentation available here.
+            - OpenAI API chat completions
+            - Streamlit frontend design & deployment
+            - Python backend 
+            - Team synergy, collaborative coding
+      - role: Intern (Design)
+        time: 201?
+        company: DesignLab Marketing/Advertising, Nicosia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Shadowing work in a creative office developed my communication skills as it allowed me to share my ideas freely. 
+          I, then, went onto do practical work in the digital media field; strengthening my independent 
+          learning on Adobe Photoshop and GIMP.
+            - Collaborative brainstorming
+            - 2D marketing design
+            - Social media presence
+      - role: Intern (Communications)
+        time: 201?
+        company: PeacePlayers Basketball, Nicosia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Bi-communal organization
+            - Shadowing work in the office
+
+projects:
+    title: Projects
+    intro: >
+      Below are the projects I've produced.
+    assignments:
+      - title: Stormboard (Bachelor Thesis)
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: Computer Generated Model of Bristol Cafe (CGI)
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Computer Graphics Rendering via C++
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Platformer Stealth Game in Collaboration with IBM
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: HTML, CSS & JS
+        level: 70%
+
+      - name: Autodesk Maya
+        level: 60%
+
+      - name: C# & Unity
+        level: 60%
+
+      - name: C++
+        level: 55%
+
+      - name: Python
+        level: 55%
+
+      - name: Java
+        level: 55%
+
+      - name: C
+        level: 40%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
 
 # certifications:
 #       title: Certifications
@@ -157,33 +199,6 @@ experiences:
 #             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #             Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 # oss:
 #     title: OSS Contributions
 #     intro: >
@@ -224,28 +239,3 @@ projects:
 #         link: "#"
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: HTML, CSS & JS
-        level: 70%
-
-      - name: C# & Unity
-        level: 60%
-
-      - name: C++
-        level: 55%
-
-      - name: Python
-        level: 55%
-
-      - name: Java
-        level: 55%
-
-      - name: C
-        level: 40%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
