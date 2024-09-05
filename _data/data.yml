@@ -134,10 +134,9 @@ projects:
         link: "https://stormboard.vercel.app/"
         tagline: "An AI-powered brainstorming website enquiring the creativity and collaboration of autonomous AI."
         details: |
-          Volunteering as an office worker in Cyprus' PeacePlayers office helped refresh my communication and independent 
-          research skills. 
-          - Bi-communal organization
-          - Shadowing work in the office
+          Blah blah blah blah blah blah blah blah blah. 
+          - Blah blah
+          - Blah blah
 
       - title: Computer Generated Model of Bristol Cafe (CGI)
         link: "#" 
@@ -145,9 +144,8 @@ projects:
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Computer Graphics Rendering via C++
-        link: "#"
-        # add link to video
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: "https://github.com/SengulC/SengulCG2023"
+        tagline: "First class C++ coursework rendering and animating the famous Cornell Box."
 
       - title: Platformer Stealth Game in Collaboration with IBM
         link: "#"
