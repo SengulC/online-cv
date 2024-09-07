@@ -158,17 +158,11 @@ projects:
           ^ can manipulate user's notes in any of the above supercharged ways
 
           ^^ summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
-      - title: Computer Generated Model of Bristol Cafe (CGI)
-        link: "https://github.com/SengulC/CGI" 
-        tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol. Autodesk Maya was the software used to both model and animate."
-
-      - title: Computer Graphics Rendering via C++
-        link: "https://github.com/SengulC/SengulCG2023"
-        tagline: "A first class C++ coursework rendering and animating the famous Cornell Box."
-
+          
       - title: Platformer Stealth Game in Collaboration with IBM
         link: "#"
-        # add video to repo and ask for repo to be public
+        # add link to video 1st
+        # then add video to repo and ask for repo to be public
         tagline: "A first class collaborative software engineering project, where I developed a Unity game with my team mates."
         details: |
           This project, spanning an entire academic year, was the perfect introduction to collaborative software engineering with a real client.
@@ -176,6 +170,18 @@ projects:
           and disagreements, producing a substantial platformer game.
           I was in charge of the Unity scripts written in C#, which I had no prior experience in. 
           I also followed standard agile production pipelines, writing tests for each script; continuously integrating and deploying.
+          This project sparked my interest in Game Development as we were able to produce a platformer game 
+          with elements of stealth, education, with all of our own assets and creative storyline.
+
+          Note: a link to the project is currently unavailable as the repository was made private on request of IBM.      
+      
+      - title: Computer Generated Model of Bristol Cafe (CGI)
+        link: "https://github.com/SengulC/CGI" 
+        tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol. Autodesk Maya was the software used to both model and animate."
+
+      - title: Computer Graphics Rendering via C++
+        link: "https://github.com/SengulC/SengulCG2023"
+        tagline: "A first class C++ coursework rendering and animating the famous Cornell Box."
 
 skills:
     title: Skills &amp; Proficiency
