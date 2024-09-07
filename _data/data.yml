@@ -79,20 +79,17 @@ education:
         time: 2019 - 2021
         details: |
           44/45 with
-          7/7 in Computer Science HL
-          7/7 in Mathematics Applications & Interpretation HL
-          7/7 in English (as a native language) HL 
-          7/7 in French (as a foreign language) SL
-          7/7 in Psychology SL
-          7/7 in Business Management SL
-          2/3 in Theory of Knowledge & the Extended Essay (in Computer Science)
+
+          7/7 in Computer Science HL, Mathematics Applications & Interpretation HL, English (as a native language) HL , French (as a foreign language) SL, Psychology SL, Business Management SL
+
+          and 2/3 in Theory of Knowledge & the Extended Essay (in Computer Science)
 
 experiences:
     title: Experiences
     info:
       - role: Intern (Full Stack Development)
         time: 2023
-        company: CYENS, Nicosia
+        company: CYENS, Nicosia, Cyprus
         details: |
           I, initially, joined a 2-person team as the frontend lead. I familiarized myself with Streamlit and the front/backend pipeline.
           Later, the backend representative of the team changed and I helped onboard the new member, facilitating a smooth transition.
@@ -113,7 +110,7 @@ experiences:
           - Team synergy, collaborative coding
       - role: Intern (Design)
         time: 2020
-        company: DesignLab Marketing/Advertising, Nicosia
+        company: DesignLab Marketing/Advertising, Nicosia, Cyprus
         details: |
           My interest in digital design has been ever-present, however I was able to put it into formal action during 
           my work experience at DesignLab. 
@@ -129,7 +126,7 @@ experiences:
           - Social media presence
       - role: Volunteer (Communications)
         time: 2019
-        company: PeacePlayers Basketball, Nicosia
+        company: PeacePlayers Basketball, Nicosia, Cyprus
         details: |
           Volunteering as an office worker in Cyprus' PeacePlayers office helped refresh my communication and independent 
           research skills. 
