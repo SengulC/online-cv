@@ -73,15 +73,15 @@ education:
         university: University of Bristol
         time: 2021 - 2024
         details: |
+         
           2:1 honors with 75% in Thesis
       - degree: International Baccalaureate (IB)
         university: English School of Kyrenia
         time: 2019 - 2021
         details: |
-          44/45 with
-
-          7/7 in Computer Science HL, Mathematics Applications & Interpretation HL, English (as a native language) HL , French (as a foreign language) SL, Psychology SL, Business Management SL
-
+          
+          44/45 with: 7/7 in Computer Science HL, Mathematics Applications & Interpretation HL, 
+          English (as a native language) HL, French (as a foreign language) SL, Psychology SL, Business Management SL,
           and 2/3 in Theory of Knowledge & the Extended Essay (in Computer Science)
 
 experiences:
