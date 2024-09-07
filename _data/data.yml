@@ -128,16 +128,33 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below are the projects I've produced.
+      Below are the projects I've produced. Each project title has a link to the relevant GitHub repository wherein more information can be found.
     assignments:
       - title: Stormboard (Bachelor Thesis)
         link: "https://stormboard.vercel.app/"
         tagline: "An AI-powered brainstorming website enquiring the creativity and collaboration of autonomous AI."
         details: |
-          Blah blah blah blah blah blah blah blah blah. 
-          - Blah blah
-          - Blah blah
+          In my first class bachelor thesis I explored the fields of Artifical Intelligence and Human-Computer Interaction.
+          I developed a node-based graphical user interface, digitally mirroring brainstorming with 
+          sticky notes, given a contextual design brief, and added the feature to 'supercharge' these sticky notes. 
+          A user can supercharge their notes in the following ways:
+          - Add an AI-created note
+          - Summarize/Expand on a note
+          - Merge 1+ notes into another note
+          - Semantically group 1+ notes
+          - Find the semantic opposite of a note
+          - Add randomness a given note 
 
+          \n Moreover, I wanted to explore the concept of autonomous AI, and how the collaboration of 
+          human and AI agents affects human creativity.
+          Thus, I created three distinct AI personas, with ranging levels of autonomy and 
+          with each having their own stylistic tone to their additions/modifications. These are:
+          - Hades with no autonomy and a netural tone,
+          - Apollo with full autonomy* and a descriptive, creative tone,
+          - Themis with slight autonomy** and a precise, succinct tone.
+
+          * can manipulate user's notes in any of the above supercharged ways
+          ** summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
       - title: Computer Generated Model of Bristol Cafe (CGI)
         link: "https://github.com/SengulC/CGI" 
         tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol. Autodesk Maya was the software used to both model and animate."
