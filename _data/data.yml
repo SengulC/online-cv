@@ -155,6 +155,8 @@ projects:
 
           * can manipulate user's notes in any of the above supercharged ways
           ** summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
+
+          Repository link (with access to Thesis PDF): https://github.com/SengulC/stormboard-client
       - title: Computer Generated Model of Bristol Cafe (CGI)
         link: "https://github.com/SengulC/CGI" 
         tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol. Autodesk Maya was the software used to both model and animate."
