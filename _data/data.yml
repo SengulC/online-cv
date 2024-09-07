@@ -145,18 +145,18 @@ projects:
           - Find the semantic opposite of a note
           - Add randomness a given note 
 
-          \n Moreover, I wanted to explore the concept of autonomous AI, and how the collaboration of 
+          Moreover, I wanted to explore the concept of autonomous AI, and how the collaboration of 
           human and AI agents affects human creativity.
           Thus, I created three distinct AI personas, with ranging levels of autonomy and 
           with each having their own stylistic tone to their additions/modifications. These are:
           - Hades with no autonomy and a netural tone,
-          - Apollo with full autonomy* and a descriptive, creative tone,
-          - Themis with slight autonomy** and a precise, succinct tone.
+          - Apollo with full autonomy^ and a descriptive, creative tone,
+          - Themis with slight autonomy^^ and a precise, succinct tone.
 
-          * can manipulate user's notes in any of the above supercharged ways
-          ** summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
+          ^ can manipulate user's notes in any of the above supercharged ways
+          ^^ summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
 
-          Repository link (with access to Thesis PDF): https://github.com/SengulC/stormboard-client
+          [Repository link (with access to Thesis PDF)](https://github.com/SengulC/stormboard-client)
       - title: Computer Generated Model of Bristol Cafe (CGI)
         link: "https://github.com/SengulC/CGI" 
         tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol. Autodesk Maya was the software used to both model and animate."
