@@ -139,9 +139,8 @@ projects:
           - Blah blah
 
       - title: Computer Generated Model of Bristol Cafe (CGI)
-        link: "#" 
-        # add link to photos/report
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://github.com/SengulC/CGI" 
+        tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol. Autodesk Maya was the software used to both model and animate."
 
       - title: Computer Graphics Rendering via C++
         link: "https://github.com/SengulC/SengulCG2023"
@@ -149,7 +148,7 @@ projects:
 
       - title: Platformer Stealth Game in Collaboration with IBM
         link: "#"
-        # add link to demo & installation?
+        # add video to repo and ask for repo to be public
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 skills:
