@@ -132,12 +132,13 @@ projects:
     assignments:
       - title: Stormboard (Bachelor Thesis)
         link: "https://stormboard.vercel.app/"
-        tagline: "An AI-powered brainstorming website enquiring the creativity and collaboration of autonomous AI.
-                  [Repository link (with access to Thesis PDF)](https://github.com/SengulC/stormboard-client)"
+        tagline: "An AI-powered brainstorming website enquiring the creativity and collaboration of autonomous AI."
         details: |
           In my first class bachelor thesis I explored the fields of Artifical Intelligence and Human-Computer Interaction.
           I developed a node-based graphical user interface, digitally mirroring brainstorming with 
           sticky notes, given a contextual design brief, and added the feature to 'supercharge' these sticky notes. 
+          [Repository link (with access to Thesis PDF)](https://github.com/SengulC/stormboard-client)
+
           A user can supercharge their notes in the following ways:
           - Add an AI-created note
           - Summarize/Expand on a note
