@@ -72,9 +72,20 @@ education:
       - degree: BSc in Computer Science
         university: University of Bristol
         time: 2021 - 2024
+        details: |
+        2:1 honors with 75% in Thesis
       - degree: International Baccalaureate (IB)
         university: English School of Kyrenia
         time: 2019 - 2021
+        details: |
+        44/45 with
+        7/7 in Computer Science HL
+        7/7 in Mathematics Applications & Interpretation HL
+        7/7 in English (as a native language) HL 
+        7/7 in French (as a foreign language) SL
+        7/7 in Psychology SL
+        7/7 in Business Management SL
+        2/3 in Theory of Knowledge & the Extended Essay (in Computer Science)
 
 experiences:
     title: Experiences
@@ -158,7 +169,7 @@ projects:
           ^ can manipulate user's notes in any of the above supercharged ways
 
           ^^ summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
-          
+
       - title: Platformer Stealth Game in Collaboration with IBM
         link: "#"
         # add link to video 1st
