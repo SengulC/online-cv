@@ -132,7 +132,8 @@ projects:
     assignments:
       - title: Stormboard (Bachelor Thesis)
         link: "https://stormboard.vercel.app/"
-        tagline: "An AI-powered brainstorming website enquiring the creativity and collaboration of autonomous AI."
+        tagline: "An AI-powered brainstorming website enquiring the creativity and collaboration of autonomous AI.
+                  [Repository link (with access to Thesis PDF)](https://github.com/SengulC/stormboard-client)"
         details: |
           In my first class bachelor thesis I explored the fields of Artifical Intelligence and Human-Computer Interaction.
           I developed a node-based graphical user interface, digitally mirroring brainstorming with 
@@ -154,21 +155,26 @@ projects:
           - Themis with slight autonomy^^ and a precise, succinct tone.
 
           ^ can manipulate user's notes in any of the above supercharged ways
-          ^^ summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
 
-          [Repository link (with access to Thesis PDF)](https://github.com/SengulC/stormboard-client)
+          ^^ summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
       - title: Computer Generated Model of Bristol Cafe (CGI)
         link: "https://github.com/SengulC/CGI" 
         tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol. Autodesk Maya was the software used to both model and animate."
 
       - title: Computer Graphics Rendering via C++
         link: "https://github.com/SengulC/SengulCG2023"
-        tagline: "First class C++ coursework rendering and animating the famous Cornell Box."
+        tagline: "A first class C++ coursework rendering and animating the famous Cornell Box."
 
       - title: Platformer Stealth Game in Collaboration with IBM
         link: "#"
         # add video to repo and ask for repo to be public
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A first class collaborative software engineering project, where I developed a Unity game with my team mates."
+        details: |
+          This project, spanning an entire academic year, was the perfect introduction to collaborative software engineering with a real client.
+          We held frequent meetings, delegated work to each team mate, managed and overcame miscommunications 
+          and disagreements, producing a substantial platformer game.
+          I was in charge of the Unity scripts written in C#, which I had no prior experience in. 
+          I also followed standard agile production pipelines, writing tests for each script; continuously integrating and deploying.
 
 skills:
     title: Skills &amp; Proficiency
