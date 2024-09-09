@@ -50,9 +50,8 @@ sidebar:
       info:
         - item: Music Production
           link:
-
         - item: Video Editing & Film Production
-          link:
+        - item: Video Games & their Development
 
 career-profile:
     title: Profile
@@ -64,7 +63,7 @@ career-profile:
       introduction to web development and scientific evaluation.
       Most recently, I completed my Bachelor Thesis, achieving a 75% mark, where I honed these skills 
       to a professional level with the inclusion of AI. I am now seeking remote or hybrid opportunities in Europe
-      or on-site in Groningen in the Netherlands, where I can dive into my passions: web development, 
+      or on-site in Groningen, Netherlands, where I can dive into my passions: web development, 
       game development, and all of the creative intersections within tech. 
 education:
     title: Education
@@ -91,16 +90,16 @@ experiences:
         time: 2023
         company: CYENS, Nicosia, Cyprus
         details: |
-          I, initially, joined a 2-person team as the frontend lead. I familiarized myself with Streamlit and the front/backend pipeline.
+          I initially joined a 2-person team as the frontend lead. I familiarized myself with Streamlit and the front/backend pipeline.
           Later, the backend representative of the team changed and I helped onboard the new member, facilitating a smooth transition.
           Towards the end of the project, I was the only intern remaining in the team and so I took on managing the fullstack pipeline as
-          well as deplpyment. Please note that the website is currently inaccessible. However a [project presentation and website demo are available here.](https://drive.google.com/drive/folders/1X7vNBumbUSQB3mpHiEetdd8wUHN-5t3I?usp=sharing)
+          well as deployment. Please note that the website is currently inaccessible. However a [project presentation and website demo are available here.](https://drive.google.com/drive/folders/1X7vNBumbUSQB3mpHiEetdd8wUHN-5t3I?usp=sharing)
           
           We developed an AI-driven interactive storyteller for kids, enabling them to create 
           fictional and historical stories through AI-generated options. 
           The user would enter an initial prompt for the story, and thereafter would continue said story via the AI-generated options.
           The project was inspired by choose your own adventure story books.
-          As an extension to the project I also integrated a text-to-image AI API, Stable Diffusion to accompany the story.
+          As an extension to the project, I integrated a text-to-image AI API, Stable Diffusion, to accompany the story.
           The project was interactive via story continuation, AI hyper-parameter customizations; and 
           open-ended as the story wouldn't end until you wanted it to.
           
@@ -120,8 +119,8 @@ experiences:
           learning on Adobe Photoshop and GIMP.
           During and after my internship, I continued learning about two platforms
           for digital design: Photoshop (the commercial standard), and GIMP (a commonly used alternative). 
-          I explored both these softwares beyond the scope of my initial internship (digital marketing), making preliminary 
-          posters and websites with a range of media.
+          I explored both these software beyond the scope of my initial internship (digital marketing), 
+          creating preliminary posters and websites with a range of media.
           - Collaborative brainstorming
           - 2D marketing design
           - Elevating and understanding brands' social media presence
@@ -144,7 +143,7 @@ projects:
         link: "https://stormboard.vercel.app/"
         tagline: "An AI-powered brainstorming website enquiring the creativity and collaboration of autonomous AI."
         details: |
-          In my first class bachelor thesis I explored the fields of Artifical Intelligence and Human-Computer Interaction.
+          In my first class bachelor thesis I explored the fields of Artificial Intelligence and Human-Computer Interaction.
           I developed a node-based graphical user interface, digitally mirroring brainstorming with 
           sticky notes, given a contextual design brief, and added the feature to 'supercharge' these sticky notes. 
           [Repository link (with access to Thesis PDF.)](https://github.com/SengulC/stormboard-client)
@@ -185,7 +184,7 @@ projects:
         # then add video to repo and ask for repo to be public
         tagline: "A first class collaborative software engineering project, where I developed a platformer stealth game (GAL4CTIC) on Unity."
         details: |
-          This project, spanning an entire academic year, was the perfect introduction to collaborative software engineering with a client from IBM.
+          This year-long project was an excellent introduction to collaborative software engineering with a client from IBM.
           We held frequent meetings, delegated work to each team mate, managed and overcame miscommunications 
           and disagreements, producing a substantial platformer game.
           I was in charge of the Unity scripts written in C#, which I had no prior experience in. 
@@ -194,11 +193,11 @@ projects:
           with elements of stealth, education, with all of our own assets and creative storyline. 
           All in under a year with slim-to-none technical guidance from clients, mentors or lecturers.
 
-          Please note that a link to the project is currently unavailable as the repository was made private on request of IBM.      
+          Please note that a link to the project is currently unavailable, as the repository was made private at IBM's request.
       
       - title: Computer Generated Model of Bristol Cafe (CGI)
         link: "https://github.com/SengulC/CGI" 
-        tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol. Autodesk Maya was the software used to both model and animate."
+        tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol using Autodesk Maya."
         details: |
           Short animation showcasing model available on repository.
       - title: Computer Graphics Rendering via C++
