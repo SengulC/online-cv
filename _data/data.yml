@@ -95,6 +95,7 @@ experiences:
           Later, the backend representative of the team changed and I helped onboard the new member, facilitating a smooth transition.
           Towards the end of the project, I was the only intern remaining in the team and so I took on managing the fullstack pipeline as
           well as deplpyment. To note, the website is not currently accessible.
+          
           We developed an AI-driven interactive storyteller for kids, enabling them to create 
           fictional and historical stories through AI-generated options. 
           The user would enter an initial prompt for the story, and thereafter would continue said story via the AI-generated options.
@@ -102,7 +103,7 @@ experiences:
           As an extension to the project I also integrated a text-to-image AI API, Stable Diffusion to accompany the story.
           The project was interactive via story continuation, AI hyper-parameter customizations; and 
           open-ended as the story wouldn't end until you wanted it to.
-          Project presentation available here. Below is a slide from said presentation giving a condensed overview of the website's features.
+          To note, the website is not currently accessible. However a [project presentation and website demo are available here.](https://drive.google.com/drive/folders/1X7vNBumbUSQB3mpHiEetdd8wUHN-5t3I?usp=sharing)
           - OpenAI API chat completions
           - Stable Diffusion API
           - Streamlit frontend design & deployment
@@ -123,7 +124,8 @@ experiences:
           posters and websites with a range of media.
           - Collaborative brainstorming
           - 2D marketing design
-          - Social media presence
+          - Elevating and understanding brands' social media presence
+          - Creative digital design
       - role: Volunteer (Communications)
         time: 2019
         company: PeacePlayers Basketball, Nicosia, Cyprus
@@ -145,7 +147,7 @@ projects:
           In my first class bachelor thesis I explored the fields of Artifical Intelligence and Human-Computer Interaction.
           I developed a node-based graphical user interface, digitally mirroring brainstorming with 
           sticky notes, given a contextual design brief, and added the feature to 'supercharge' these sticky notes. 
-          [Repository link (with access to Thesis PDF)](https://github.com/SengulC/stormboard-client)
+          [Repository link (with access to Thesis PDF.)](https://github.com/SengulC/stormboard-client)
 
           A user can supercharge their notes in the following ways:
           - Add an AI-created note
@@ -153,9 +155,9 @@ projects:
           - Merge 1+ notes into another note
           - Semantically group 1+ notes
           - Find the semantic opposite of a note
-          - Add randomness a given note 
+          - Add randomness to a given note 
 
-          Moreover, I wanted to explore the concept of autonomous AI, and how the collaboration of 
+          I wanted to explore the concept of autonomous AI, and how the collaboration of 
           human and AI agents affects human creativity.
           Thus, I created three distinct AI personas, with ranging levels of autonomy and 
           with each having their own stylistic tone to their additions/modifications. These are:
@@ -167,29 +169,42 @@ projects:
 
           ^^ summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
 
+          I developed these personas by role-based prompting my OpenAI API backend calls.
+          
+          In my thesis, I thoroughly explore the technical and creative aspects of autonomous AI and human collaboration.
+          I reached the conclusion that although not perfect, Stormboard served as a great vessel to measure how much, or rather in what ways,
+          users like to preserve control over their creative artifacts. 
+          I also identified a few ideation processes and techniques that users greatly benefit from AI input in, 
+          i.e. clarification and grouping of ideas; as well as expanding on ideas with professional, state-of-the-art 
+          information whilst staying within the context defined by the user.
+
       - title: Platformer Stealth Game in Collaboration with IBM
         link: "#"
         # add link to video 1st
         # then add video to repo and ask for repo to be public
         tagline: "A first class collaborative software engineering project, where I developed a Unity game with my team mates."
         details: |
-          This project, spanning an entire academic year, was the perfect introduction to collaborative software engineering with a real client.
+          This project, spanning an entire academic year, was the perfect introduction to collaborative software engineering with a client from IBM.
           We held frequent meetings, delegated work to each team mate, managed and overcame miscommunications 
           and disagreements, producing a substantial platformer game.
           I was in charge of the Unity scripts written in C#, which I had no prior experience in. 
           I also followed standard agile production pipelines, writing tests for each script; continuously integrating and deploying.
           This project sparked my interest in Game Development as we were able to produce a platformer game 
-          with elements of stealth, education, with all of our own assets and creative storyline.
+          with elements of stealth, education, with all of our own assets and creative storyline. 
+          All in under a year with slim-to-none technical guidance from clients, mentors or lecturers.
 
           Note: a link to the project is currently unavailable as the repository was made private on request of IBM.      
       
       - title: Computer Generated Model of Bristol Cafe (CGI)
         link: "https://github.com/SengulC/CGI" 
         tagline: "A first class CGI coursework realistically modelling and animating the Clifton Obervatory Cafe in Bristol. Autodesk Maya was the software used to both model and animate."
-
+        details: |
+          Short animation showcasing model available on repository.
       - title: Computer Graphics Rendering via C++
         link: "https://github.com/SengulC/SengulCG2023"
         tagline: "A first class C++ coursework rendering and animating the famous Cornell Box."
+        details: |
+          Animation showcase and codebase available on repository.
 
 skills:
     title: Skills &amp; Proficiency
