@@ -179,9 +179,7 @@ projects:
           information whilst staying within the context defined by the user.
 
       - title: GAL4CTIC Game in Collaboration with IBM
-        link: "#"
-        # add link to video 1st
-        # then add video to repo and ask for repo to be public
+        link: "https://drive.google.com/file/d/1mxNK3JlQd9QeWxq333_eXCRHj1nuEGQY/view?usp=sharing"
         tagline: "A first class collaborative software engineering project, where I developed a platformer stealth game (GAL4CTIC) on Unity."
         details: |
           This year-long project was an excellent introduction to collaborative software engineering with a client from IBM.
