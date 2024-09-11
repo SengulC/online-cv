@@ -212,6 +212,9 @@ skills:
       - name: HTML, CSS & JS
         level: 70%
 
+      - name: Java
+        level: 60%
+
       - name: Autodesk Maya
         level: 60%
 
@@ -222,9 +225,6 @@ skills:
         level: 55%
 
       - name: Python
-        level: 55%
-
-      - name: Java
         level: 55%
 
       - name: C
