@@ -60,9 +60,11 @@ career-profile:
       about blending creativity and technology. Since I was 17, I've been captivated by programming, 
       crafting dynamic programs and innovative websites. My journey began in high school, where I scored a perfect 7/7 
       in Computer Science during my IB diploma and wrote a 30-page Extended Essay that marked my 
-      introduction to web development and scientific evaluation.
-      Most recently, I completed my Bachelor Thesis, achieving a 75% mark, where I honed these skills 
-      to a professional level with the inclusion of AI. I am now seeking remote or hybrid opportunities in Europe
+      introduction to web development and formal scientific evaluation.
+      Most recently, I completed my Bachelor Thesis, achieving a 75% mark which placed me in 
+      the top 10 of UoB's 2024 Computer Science BSc finalists.
+      With this project I honed the aforementioned skills to a professional level 
+      with the inclusion of AI. I am now seeking remote or hybrid opportunities in Europe
       or on-site in Groningen, Netherlands, where I can dive into my passions: web development, 
       game development, and all of the creative intersections within tech. 
 education:
@@ -145,9 +147,8 @@ projects:
         details: |
           In my first class bachelor thesis I explored the fields of Artificial Intelligence and Human-Computer Interaction.
           I developed a node-based graphical user interface, digitally mirroring brainstorming with 
-          sticky notes, given a contextual design brief, and added the feature to 'supercharge' these sticky notes. 
+          sticky notes given a contextual design brief, and added the feature to 'supercharge' these sticky notes. 
           [Repository link (with access to Thesis PDF.)](https://github.com/SengulC/stormboard-client)
-          Please note that Stormboard is currently unfunded, so its AI features are not operational.
 
           A user can supercharge their notes in the following ways:
           - Add an AI-created note
@@ -174,7 +175,7 @@ projects:
           In my thesis, I thoroughly explore the technical and creative aspects of autonomous AI and human collaboration.
           I reached the conclusion that although not perfect, Stormboard served as a great vessel to measure how much, or rather in what ways,
           users like to preserve control over their creative artifacts. 
-          I also identified a few ideation processes and techniques that users greatly benefit from AI input in, 
+          I also identified a few ideation processes and techniques that users greatly benefit from AI input therein, 
           i.e. clarification and grouping of ideas; as well as expanding on ideas with professional, state-of-the-art 
           information whilst staying within the context defined by the user.
 
