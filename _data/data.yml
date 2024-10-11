@@ -50,8 +50,10 @@ sidebar:
       info:
         - item: Music Production
           link:
-        - item: Video Editing & Film Production
+        - item: Video Editing & Film Production 
+        - item: VFX & CGI
         - item: Video Games & their Development
+        - item: Creative Technology and its Benefits to Artists; AI, VR, AR etc.
 
 career-profile:
     title: Profile
@@ -60,7 +62,7 @@ career-profile:
       about blending creativity and technology. Since I was 17, I've been captivated by programming, 
       crafting dynamic programs and innovative websites. My journey began in high school, where I scored a perfect 7/7 
       in Computer Science during my IB diploma and wrote a 30-page Extended Essay that marked my 
-      introduction to web development and formal scientific evaluation.
+      introduction to web development and formal user-centric evaluation.
       Most recently, I completed my Bachelor Thesis, achieving a 75% mark which placed me in 
       the top 10 of UoB's 2024 Computer Science BSc finalists.
       With this project I honed the aforementioned skills to a professional level 
@@ -89,7 +91,7 @@ experiences:
     title: Experiences
     info:
       - role: Intern (Full Stack Development)
-        time: 2023
+        time: Summer of 2023
         company: CYENS, Nicosia, Cyprus
         details: |
           I initially joined a 2-person team as the frontend lead. I familiarized myself with Streamlit and the front/backend pipeline.
@@ -111,7 +113,7 @@ experiences:
           - Python backend 
           - Team synergy, collaborative coding
       - role: Intern (Design)
-        time: 2020
+        time: Summer of 2020
         company: DesignLab Marketing/Advertising, Nicosia, Cyprus
         details: |
           My interest in digital design has been ever-present, however I was able to put it into formal action during 
@@ -119,16 +121,16 @@ experiences:
           Shadowing work in a creative office developed my communication skills as it allowed me to share my ideas freely. 
           I, then, went onto do practical work in the digital media field; strengthening my independent 
           learning on Adobe Photoshop and GIMP.
-          During and after my internship, I continued learning about two platforms
+          Both during and after my internship, I continued learning about two platforms
           for digital design: Photoshop (the commercial standard), and GIMP (a commonly used alternative). 
-          I explored both these software beyond the scope of my initial internship (digital marketing), 
+          I explored both of these software beyond the scope of my initial internship (digital marketing), 
           creating preliminary posters and websites with a range of media.
           - Collaborative brainstorming
           - 2D marketing design
-          - Elevating and understanding brands' social media presence
+          - Understanding and elevating brands' social media presence
           - Creative digital design
       - role: Volunteer (Communications)
-        time: 2019
+        time: Summer of 2019
         company: PeacePlayers Basketball, Nicosia, Cyprus
         details: |
           Volunteering as an office worker in Cyprus' PeacePlayers office helped refresh my communication and independent 
@@ -139,7 +141,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below are the projects I've produced. Each project title has a link to the relevant GitHub repository wherein more information can be found.
+      Below are the projects I've produced. Each project title has a link to the relevant GitHub repository, or an otherwise relevant website, wherein more information can be found.
     assignments:
       - title: Stormboard (Bachelor Thesis)
         link: "https://stormboard.vercel.app/"
@@ -150,8 +152,8 @@ projects:
           sticky notes given a contextual design brief, and added the feature to 'supercharge' these sticky notes. 
           [Repository link (with access to Thesis PDF.)](https://github.com/SengulC/stormboard-client)
 
-          A user can supercharge their notes in the following ways:
-          - Add an AI-created note
+          A user can 'supercharge' aka add AI to their notes in the following ways:
+          - Add a new AI-created note
           - Summarize/Expand on a note
           - Merge 1+ notes into another note
           - Semantically group 1+ notes
@@ -166,9 +168,9 @@ projects:
           - Apollo with full autonomy^ and a descriptive, creative tone,
           - Themis with slight autonomy^^ and a precise, succinct tone.
 
-          ^ can manipulate user's notes in any of the above supercharged ways
+          ^ can manipulate the user's notes in any of the above supercharged ways
 
-          ^^ summarizes all of user's notes in a user-chosen time period (e.g. every 2 seconds)
+          ^^ summarizes all of the user's notes in a user-chosen time period (e.g. every 2 seconds)
 
           I developed these personas by role-based prompting my OpenAI API backend calls.
           
@@ -176,7 +178,7 @@ projects:
           I reached the conclusion that although not perfect, Stormboard served as a great vessel to measure how much, or rather in what ways,
           users like to preserve control over their creative artifacts. 
           I also identified a few ideation processes and techniques that users greatly benefit from AI input therein, 
-          i.e. clarification and grouping of ideas; as well as expanding on ideas with professional, state-of-the-art 
+          e.g. clarifying and grouping ideas; expanding on ideas with professional, state-of-the-art 
           information whilst staying within the context defined by the user.
 
       - title: GAL4CTIC Game in Collaboration with IBM
@@ -187,10 +189,10 @@ projects:
           We held frequent meetings, delegated work to each team mate, managed and overcame miscommunications 
           and disagreements, producing a substantial platformer game.
           I was in charge of the Unity scripts written in C#, which I had no prior experience in. 
-          I also followed standard agile production pipelines, writing tests for each script; continuously integrating and deploying.
+          I followed standard agile production pipelines, writing tests for each script; continuously integrating and deploying.
           This project sparked my interest in Game Development as we were able to produce a platformer game 
           with elements of stealth, education, with all of our own assets and creative storyline. 
-          All in under a year with slim-to-none technical guidance from clients, mentors or lecturers.
+          All done in under a year with slim-to-none technical guidance from clients, mentors or lecturers.
 
           Please note that a link to the project is unavailable as its repository is private, 
           however a demo video of the game can be found in the link above.
