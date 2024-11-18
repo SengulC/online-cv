@@ -30,9 +30,7 @@
     {% endif %}
 
     {% if experience.avatar %}
-    <div class="details">
-      {{ experience.avatar | markdownify }}
-    </div><!--//details-->
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ experience.avatar }}" alt="image" />
     {% endif %}
 
   </div><!--//item-->
