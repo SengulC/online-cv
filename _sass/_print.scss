@@ -8,8 +8,10 @@
     }
 
     img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
+      filter: grayscale(1);
+      -webkit-filter: greyscale(1);
+      max-width: 50px;
+      max-width: 50px;
     }
    .main-wrapper .time {
        float: right;
