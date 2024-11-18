@@ -112,7 +112,7 @@ experiences:
           - Streamlit frontend design & deployment
           - Python backend 
           - Team synergy, collaborative coding
-        avatar: stormboard.png
+        # avatar: stormboard.png
       - role: Intern (Design)
         time: Summer of 2020
         company: DesignLab Marketing/Advertising, Nicosia, Cyprus
