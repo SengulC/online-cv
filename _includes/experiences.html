@@ -29,8 +29,10 @@
     </div><!--//details-->
     {% endif %}
 
-    {% if sidebar.avatar %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    {% if experience.avatar %}
+    <div class="details">
+      {{ experience.avatar | markdownify }}
+    </div><!--//details-->
     {% endif %}
 
   </div><!--//item-->
