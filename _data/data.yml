@@ -197,6 +197,10 @@ projects:
 
           Please note that a link to the project is unavailable as its repository is private, 
           however a demo video of the game can be found in the link above.
+
+          - C# scripting
+          - CI through Unity tests and Github actions
+          - CD through Github releases
       
       - title: Computer Generated Model of Bristol Cafe (CGI)
         link: "https://github.com/SengulC/CGI" 
@@ -208,6 +212,42 @@ projects:
         tagline: "A first class C++ coursework rendering and animating the famous Cornell Box."
         details: |
           Animation showcase and codebase available on repository.
+
+          - Object-oriented programming in C++
+          - SDL visualizations
+          - Ray tracing
+          - First-class extension: reflective surfaces
+          - Relevant 3D modelling and animation mathematics showcased through first-class exam result
+
+      - title: Distributed and Parallel implementation of Conway's Game of Life in Go
+        link: "https://github.com/SengulC/gol-distr"
+        tagline: "An upper-second class pair-programming Go coursework on the distributed and parallel execution of the Game of Life."
+        details: |
+          The Game of Life is a cellular automaton devised by the British mathematician John Conway in 1970.
+          It is a zero-player game; its evolution is determined by its initial state and a ruleset.
+
+          In the initial steps of this project, we implemented a single-threaded execution of Conway’s Game of Life.
+          Our program took in a PGM image and transformed it into a 2D slice of bytes, which represented the state 
+          of the game world after a specified number of turns.
+
+          To make the first step in our distributed implementation, we followed a simple client-server model, 
+          with our local controller acting as the client, and a single AWS node acting as the server side- the worker. 
+          Our latest version of the distributed implementation includes fault tolerance. 
+          The way in which we implemented fault tolerance allows for the local distributor 
+          to connect to the worker, and at any given moment quit the local controller in a way that pauses 
+          the current worker execution, allowing for a new local controller to connect to the server and 
+          pick up where the previous client left off.
+
+          More information on the system design, development, and debugging throughout our process can be
+          found in our final report through the link above.
+
+          - Goroutines
+          - Concurrency
+          - Server/Client model implementation with the use of Amazon Web Services
+          - SDL visualizations
+          - Server-side fault tolerance
+          - Debugging data races
+          - Broker design pattern
 
 skills:
     title: Skills &amp; Proficiency
