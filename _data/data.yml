@@ -219,7 +219,7 @@ projects:
           - First-class extension: reflective surfaces
           - Relevant 3D modelling and animation mathematics showcased through first-class exam result
 
-      - title: Distributed and Parallel implementation of Conway's Game of Life in Go
+      - title: Conway's Game of Life in Go
         link: "https://github.com/SengulC/gol-distr"
         tagline: "An upper-second class pair-programming Go coursework on the distributed and parallel execution of the Game of Life."
         details: |
@@ -231,7 +231,7 @@ projects:
           of the game world after a specified number of turns.
 
           To make the first step in our distributed implementation, we followed a simple client-server model, 
-          with our local controller acting as the client, and a single AWS node acting as the server side- the worker. 
+          with our local controller acting as the client, and a single AWS node acting as the server side; the worker. 
           Our latest version of the distributed implementation includes fault tolerance. 
           The way in which we implemented fault tolerance allows for the local distributor 
           to connect to the worker, and at any given moment quit the local controller in a way that pauses 
@@ -253,26 +253,32 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML, CSS & JS
+      - name: HTML, CSS & JavaScript
         level: 70%
 
       - name: Java
-        level: 60%
-
-      - name: Autodesk Maya
-        level: 60%
-
-      - name: C# & Unity
         level: 60%
 
       - name: C++
         level: 55%
 
       - name: Python
-        level: 55%
+        level: 50%
+
+      - name: Go
+        level: 50%
 
       - name: C
         level: 40%
+
+      - name: Haskell
+        level: 35%
+
+      - name: Autodesk Maya
+        level: 60%
+
+      - name: C# & Unity
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
