@@ -16,7 +16,7 @@ sidebar:
     # phone: 012 345 6789
     timezone: Europe/Nicosia # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: European Union
-    # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: https://sengulc.vercel.app/ # Include the full website URL, including "http://" or "https://".
     linkedin: sengul-cagdal
     # xing: alandoe
     github: SengulC
@@ -68,6 +68,8 @@ career-profile:
       with the inclusion of AI. I am currently located in Cyprus but am seeking on-site or hybrid opportunities in Europe, namely: Amsterdam, Barcelona, Berlin, Dublin, Paris.
       I aspire to dive into my passions of web development, 
       game development, and all of the creative intersections within tech. 
+
+      For an updated and more interesting portfolio site, visit: [sengulc.vercel.app.](https://sengulc.vercel.app/)
 education:
     title: Education
     info:
